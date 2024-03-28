@@ -1,0 +1,5 @@
+name: UsefulPlugin
+version: author
+main: a.Mian
+author: author
+api-version: 1.13
